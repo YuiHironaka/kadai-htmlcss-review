@@ -1,0 +1,20 @@
+header {
+    background-color:#ffcccc;
+}
+#wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+#main {
+  width: 70%;
+  background-color:#ccffcc;
+}
+
+#menu {
+  width: 30%;
+  background-color:#ccccff;
+}
+footer{
+    background-color:#ffccff;
+}
